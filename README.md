@@ -1,2 +1,0 @@
-# FDF
-Graphics Project
